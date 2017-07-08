@@ -1,2 +1,2 @@
 # online-registration-form
-A responsive registration form for third techdegree project
+Built an responsive, mobile-first registration form using a variety of HTML form elements.
